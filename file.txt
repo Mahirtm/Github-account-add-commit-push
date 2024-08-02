@@ -1,0 +1,18 @@
+git --version 
+git -test // git er tools
+git config --help 
+git config --list 
+git config user.name 
+git config user.email
+git config --global user.name ("new name")
+git config --global user.email ("new eamil")
+
+how to go git repository to working directory 
+>git init (untracked)
+
+how to go working repository to staging area 
+>git add .(for all file everything)
+>git add (file name ){all tracked}
+
+how to tracked your file chacked
+>git status ( add , restore)
