@@ -19,4 +19,17 @@ how to tracked your file chacked
 
 information > git diff > git status
 
-git log (get the commit information)
+git log (get the commit information) 
+
+
+
+Day two (class no two)
+
+1.Github > add -commit-push
+2.code > pull 
+3.How to create issues
+4.Branch
+5.Margin
+
+
+
