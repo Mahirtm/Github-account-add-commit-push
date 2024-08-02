@@ -16,3 +16,7 @@ how to go working repository to staging area
 
 how to tracked your file chacked
 >git status ( add , restore)
+
+information > git diff > git status
+
+git log (get the commit information)
